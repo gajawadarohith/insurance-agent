@@ -1,0 +1,31 @@
+
+=== VAPI CALL TRANSCRIPT ===
+Customer: Kavita Joshi
+Call ID: 6128a6ac-1fdf-404c-962d-9b27b86ef51d
+Date: 2025-08-11 22:10:27
+Status: ended
+Duration: 0.1705 seconds
+Cost: $0.1705
+
+=== TRANSCRIPT ===
+Arjun: Hello और नमस्ते. Good morning sir. May I speak with कविता जोशी? आप हिंदी में भी बात कर सकते हैं.
+Kavita Joshi: Yeah, I prefer English not हिंदी. So just talk to me in English.
+Arjun: Thank you. May I speak with कविा जोशी?
+Kavita Joshi: Yeah, I am कविता जोशी.
+Arjun: My name is अर्जुन. And I am an executive calling on behalf of value enable life insurance combleLlited. This is a service call
+Kavita Joshi: Yeah so yeah yeah so what is the premium amount? Yeah, I know that premium amount is due, Can you just tell me what is my outstanding amount and just tell me what is the last day to pay that?
+Arjun: Let me start by confirming your policy details. Your policy is value enabled life wealth builder policy number p n 1000 9 and the premium of 32000 rupees, 3 2 0 0 0 is due on 2 0 2 4 0 6 1 8.
+Kavita Joshi: Yeah yeah, thank you. Yeah, I got it. I'll be paying that 32000 amount rupees. Yeah, what what method can I use to pay that amount?
+Arjun: You can use various methods to pay the 32000 rupees You can pay via debit card, credit card, net banking PhonePe, WhatsApp और Google Pay. Which method would you prefer?
+Kavita Joshi: Ok ok, thank you, thank you. I'll be paying from your website. That's all thank you. Thank you for reminding me.
+Arjun: Your welcome, I'm glad I could assist you.
+Kavita Joshi: Yeah yeah, thank you, thank you. I'll be calling, I'll be doing the payment by next 10 minutes Yeah, thank you.
+Arjun: Thank you for your commitment to pay within the next 10 minutes. If you need any further assistance, feel free to reach out.
+
+
+=== CALL METADATA ===
+Started At: 2025-08-11T16:36:02.069Z
+Ended At: 2025-08-11T16:37:54.770Z
+End Reason: customer-ended-call
+
+=== END OF TRANSCRIPT ===
